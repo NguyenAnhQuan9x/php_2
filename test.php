@@ -10,8 +10,9 @@
 <form method="GET">
 Name: <input type="text" name="name"><br>
 Age: <input type="text" name="age"><br>
-
+<h1>sadadasdadassadsa</h1>
 <input type="submit" value="Register">
 </form>
 </body>
+
 </html>
